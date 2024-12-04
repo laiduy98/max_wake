@@ -1,0 +1,243 @@
+{
+    "nhits": 176,
+    "parameters": {
+        "dataset": [
+            "tgvmax"
+        ],
+        "rows": 10,
+        "start": 0,
+        "sort": [
+            "date"
+        ],
+        "facet": [
+            "date",
+            "origine",
+            "destination"
+        ],
+        "format": "json",
+        "timezone": "UTC"
+    },
+    "records": [
+        {
+            "datasetid": "tgvmax",
+            "recordid": "49791231d0a231881ec781f0ea24a622c1c9117c",
+            "fields": {
+                "date": "2025-01-01",
+                "origine": "MONTPELLIER SUD DE FRANCE",
+                "od_happy_card": "NON",
+                "train_no": "7872",
+                "heure_arrivee": "19:04",
+                "axe": "OUIGO_sud-est",
+                "destination": "PARIS (intramuros)",
+                "entity": "OUIGO_paris centre <> montpellier bis",
+                "destination_iata": "FRPLY",
+                "heure_depart": "15:52",
+                "origine_iata": "FRSUF"
+            },
+            "record_timestamp": "2024-12-01T23:37:00Z"
+        },
+        {
+            "datasetid": "tgvmax",
+            "recordid": "90ace23c2a85d92f483cbb86801a324a6e474ab0",
+            "fields": {
+                "date": "2025-01-01",
+                "origine": "MONTPELLIER SUD DE FRANCE",
+                "od_happy_card": "NON",
+                "train_no": "9708",
+                "heure_arrivee": "16:12",
+                "axe": "SUD EST",
+                "destination": "PARIS (intramuros)",
+                "entity": "BARCELONEPA",
+                "destination_iata": "FRPLY",
+                "heure_depart": "12:54",
+                "origine_iata": "FRSUF"
+            },
+            "record_timestamp": "2024-12-01T23:37:00Z"
+        },
+        {
+            "datasetid": "tgvmax",
+            "recordid": "d480ba281fb49175451b593e674c95df37168419",
+            "fields": {
+                "date": "2025-01-01",
+                "origine": "MONTPELLIER SUD DE FRANCE",
+                "od_happy_card": "NON",
+                "train_no": "6258",
+                "heure_arrivee": "18:12",
+                "axe": "SUD EST",
+                "destination": "PARIS (intramuros)",
+                "entity": "LANGPA",
+                "destination_iata": "FRPLY",
+                "heure_depart": "14:52",
+                "origine_iata": "FRSUF"
+            },
+            "record_timestamp": "2024-12-01T23:37:00Z"
+        },
+        {
+            "datasetid": "tgvmax",
+            "recordid": "dd01f3d8462a5a5cd3e548d008db5beed73da91e",
+            "fields": {
+                "date": "2025-01-01",
+                "origine": "MONTPELLIER SUD DE FRANCE",
+                "od_happy_card": "NON",
+                "train_no": "6250",
+                "heure_arrivee": "11:04",
+                "axe": "SUD EST",
+                "destination": "PARIS (intramuros)",
+                "entity": "LANGPA",
+                "destination_iata": "FRPLY",
+                "heure_depart": "07:52",
+                "origine_iata": "FRSUF"
+            },
+            "record_timestamp": "2024-12-01T23:37:00Z"
+        },
+        {
+            "datasetid": "tgvmax",
+            "recordid": "9f38651ad9b6f4d078653fc6f67dd065bea6c65f",
+            "fields": {
+                "date": "2025-01-01",
+                "origine": "MONTPELLIER SUD DE FRANCE",
+                "od_happy_card": "NON",
+                "train_no": "6048",
+                "heure_arrivee": "16:12",
+                "axe": "SUD EST",
+                "destination": "PARIS (intramuros)",
+                "entity": "LANGPA",
+                "destination_iata": "FRPLY",
+                "heure_depart": "12:54",
+                "origine_iata": "FRSUF"
+            },
+            "record_timestamp": "2024-12-01T23:37:00Z"
+        },
+        {
+            "datasetid": "tgvmax",
+            "recordid": "a8d6a0593e874af1dc7d712b5af92a705f74fc4b",
+            "fields": {
+                "date": "2024-12-31",
+                "origine": "MONTPELLIER SUD DE FRANCE",
+                "od_happy_card": "NON",
+                "train_no": "6048",
+                "heure_arrivee": "16:12",
+                "axe": "SUD EST",
+                "destination": "PARIS (intramuros)",
+                "entity": "LANGPA",
+                "destination_iata": "FRPLY",
+                "heure_depart": "12:54",
+                "origine_iata": "FRSUF"
+            },
+            "record_timestamp": "2024-12-01T23:37:00Z"
+        },
+        {
+            "datasetid": "tgvmax",
+            "recordid": "aa1f31c8137fcf89e990844903b583610f2d5c5e",
+            "fields": {
+                "date": "2024-12-31",
+                "origine": "MONTPELLIER SUD DE FRANCE",
+                "od_happy_card": "NON",
+                "train_no": "6258",
+                "heure_arrivee": "18:12",
+                "axe": "SUD EST",
+                "destination": "PARIS (intramuros)",
+                "entity": "LANGPA",
+                "destination_iata": "FRPLY",
+                "heure_depart": "14:52",
+                "origine_iata": "FRSUF"
+            },
+            "record_timestamp": "2024-12-01T23:37:00Z"
+        },
+        {
+            "datasetid": "tgvmax",
+            "recordid": "fecbe4578a7f1311ffcacb7568474fba42fbee67",
+            "fields": {
+                "date": "2024-12-31",
+                "origine": "MONTPELLIER SUD DE FRANCE",
+                "od_happy_card": "NON",
+                "train_no": "9708",
+                "heure_arrivee": "16:12",
+                "axe": "SUD EST",
+                "destination": "PARIS (intramuros)",
+                "entity": "BARCELONEPA",
+                "destination_iata": "FRPLY",
+                "heure_depart": "12:54",
+                "origine_iata": "FRSUF"
+            },
+            "record_timestamp": "2024-12-01T23:37:00Z"
+        },
+        {
+            "datasetid": "tgvmax",
+            "recordid": "46de8e2ecaeba770cbb7cf566055bd0a6a0c25ce",
+            "fields": {
+                "date": "2024-12-31",
+                "origine": "MONTPELLIER SUD DE FRANCE",
+                "od_happy_card": "NON",
+                "train_no": "7872",
+                "heure_arrivee": "19:04",
+                "axe": "OUIGO_sud-est",
+                "destination": "PARIS (intramuros)",
+                "entity": "OUIGO_paris centre <> montpellier bis",
+                "destination_iata": "FRPLY",
+                "heure_depart": "15:52",
+                "origine_iata": "FRSUF"
+            },
+            "record_timestamp": "2024-12-01T23:37:00Z"
+        },
+        {
+            "datasetid": "tgvmax",
+            "recordid": "5ce56f3ac0ba6d4866795f9896a77c9785c9f1d3",
+            "fields": {
+                "date": "2024-12-31",
+                "origine": "MONTPELLIER SUD DE FRANCE",
+                "od_happy_card": "NON",
+                "train_no": "6250",
+                "heure_arrivee": "11:04",
+                "axe": "SUD EST",
+                "destination": "PARIS (intramuros)",
+                "entity": "LANGPA",
+                "destination_iata": "FRPLY",
+                "heure_depart": "07:52",
+                "origine_iata": "FRSUF"
+            },
+            "record_timestamp": "2024-12-01T23:37:00Z"
+        }
+    ],
+    "facet_groups": [
+        {
+            "name": "date",
+            "facets": [
+                {
+                    "name": "2024",
+                    "count": 171,
+                    "state": "displayed",
+                    "path": "2024"
+                },
+                {
+                    "name": "2025",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "2025"
+                }
+            ]
+        },
+        {
+            "name": "origine",
+            "facets": [
+                {
+                    "name": "MONTPELLIER SUD DE FRANCE",
+                    "count": 176,
+                    "state": "refined",
+                    "path": "MONTPELLIER SUD DE FRANCE"
+                }
+            ]
+        },
+        {
+            "name": "destination",
+            "facets": [
+                {
+                    "name": "PARIS (intramuros)",
+                    "count": 176,
+                    "state": "refined",
+                    "path": "PARIS (intramuros)"
+                }
+            ]
+        }
+    ]
+}
