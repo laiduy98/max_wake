@@ -40,16 +40,16 @@ def prepare_url(args):
     url += "&refine.date=" + args.date
     return url.replace(" ", "%20")
 
-def send_sms(message):
-    credential = json.load(open("./secret.json"))
-    print(json.dumps(credential, indent=4))
-    sms = "https://smsapi.free-mobile.fr/sendmsg?user="
-    sms += credential["SMS"]["user"]
-    sms += "&pass="
-    sms += credential["SMS"]["password"]
-    sms += "&msg="
-    sms += message
-    urllib.request.urlopen(sms)
+# def send_sms(message):
+#     credential = json.load(open("./secret.json"))
+#     print(json.dumps(credential, indent=4))
+#     sms = "https://smsapi.free-mobile.fr/sendmsg?user="
+#     sms += credential["SMS"]["user"]
+#     sms += "&pass="
+#     sms += credential["SMS"]["password"]
+#     sms += "&msg="
+#     sms += message
+#     urllib.request.urlopen(sms)
 
 def send_email(message):
     credential = json.load(open("./secret.json"))
